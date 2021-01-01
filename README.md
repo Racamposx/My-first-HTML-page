@@ -1,2 +1,2 @@
 # My-first-HTML-page
-Racamposx/First-html-page
+This is my first html page with some css uses. I never used it before.
